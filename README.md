@@ -21,6 +21,10 @@
 - Talk at the [Programming Language Interest Group at Edinburgh University](https://www.wiki.ed.ac.uk/display/prolan/Programming+Languages+Interest+Group), 10.12.2015
 
   [*Functional Programming in C++*](https://github.com/michel-steuwer/talks/blob/master/PLInG2015.pdf)
+
+- Talk at the [International Conference on Functional Programming (ICFP) 2015 in Vancouver, Canada](http://icfpconference.org/icfp2015/), 01.09.2015.
+
+  [*Generating Performance Portable Code using Rewrite Rules: From High-level Functional Expressions to High-Performance OpenCL Code*](https://github.com/michel-steuwer/talks/blob/master/ICFP2015.pdf)
   
 - Talk at the [Scottish Programming Language Seminar at the University of St. Andrews](https://ff32.host.cs.st-andrews.ac.uk/spls/), 15.06.2015
 
