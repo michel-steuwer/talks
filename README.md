@@ -1,4 +1,4 @@
-# Slides of research talks given by me
+# Slides of my research talks
 
 ## 2016
 
