@@ -1,4 +1,4 @@
-# Slides of research talks given by Michel Steuwer
+# Slides of research talks given by me
 
 - Invited Talk at the [Center for Advanced Electronics Dresden, Dresden University of Technologies](https://www.cfaed.tu-dresden.de/), 26.08.2016
 
