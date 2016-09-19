@@ -21,6 +21,10 @@
 - Talk at the [Programming Language Interest Group at Edinburgh University](https://www.wiki.ed.ac.uk/display/prolan/Programming+Languages+Interest+Group), 10.12.2015
 
   [*Functional Programming in C++*](https://github.com/michel-steuwer/talks/blob/master/2015/PLInG-2015.pdf)
+  
+- Guest Lecture at the [Elements of Programming Languages Course](http://www.inf.ed.ac.uk/teaching/courses/epl/index-2015.html) at the University of Edinburgh given by James Cheney, 26.10.2015.
+	
+	[*Domain Specific Languages and rewriting-based optimisations for performance-portable parallel programming*](https://github.com/michel-steuwer/talks/blob/master/2015/EPLGuestLecture-2015.pdf)
 
 - Talk at the [International Conference on Functional Programming (ICFP) 2015 in Vancouver, Canada](http://icfpconference.org/icfp2015/), 01.09.2015.
 
