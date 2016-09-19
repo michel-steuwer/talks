@@ -1,4 +1,6 @@
-# Slides of research talks given by me
+# Slides of research talks
+
+## 2016
 
 - Invited Talk at the [Center for Advanced Electronics Dresden, Dresden University of Technologies](https://www.cfaed.tu-dresden.de/), 26.08.2016
 
@@ -17,6 +19,8 @@
 - Invited Talk at the [Multicore Programming Group](http://multicore.doc.ic.ac.uk/) and the [Software Performance Optimisation Group](https://spo.doc.ic.ac.uk) at Imperial College London, 22.01.2016
 
   [*Generating Performance Portable Code using Rewrite Rules: From High-Level Functional Expressions to High-Performance OpenCL Code*](https://github.com/michel-steuwer/talks/blob/master/2016/ImperialCollegeLondon-2016.pdf)
+
+## 2015
 
 - Talk at the [Programming Language Interest Group at Edinburgh University](https://www.wiki.ed.ac.uk/display/prolan/Programming+Languages+Interest+Group), 10.12.2015
 
