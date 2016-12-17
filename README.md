@@ -2,6 +2,10 @@
 
 ## 2016
 
+- Invited Talk at the [Computer Laboratory Systems Research Group](https://www.cl.cam.ac.uk/research/srg/) at the University of Cambridge, 09.12.2016
+
+  [*The Lift Project: Performance Portable GPU Code Generation via Rewrite Rules*](https://github.com/michel-steuwer/talks/blob/master/2016/Cambridge-2016.pdf)
+
 - Invited Talk at the [Center for Advanced Electronics Dresden, Dresden University of Technologies](https://www.cfaed.tu-dresden.de/), 26.08.2016
 
   [*Structured Parallel Programming - From High-Level Functional Expressions to High-Performance OpenCL Code*](https://github.com/michel-steuwer/talks/blob/master/2016/TUDresden-2016.pdf)
