@@ -1,5 +1,11 @@
 # Slides of research talks
 
+## 2017
+
+- Lightning Talk at the [MaRIONet](http://manycore.org.uk/) launch meeting at Imperial College, 11.01.2017
+
+  [*The Lift Project: Where High-Level Programming Meets Performance Portability*](https://github.com/michel-steuwer/talks/blob/master/2017/MaRIONet-launch-2017.pdf)
+
 ## 2016
 
 - Invited Talk at the [Computer Laboratory Systems Research Group](https://www.cl.cam.ac.uk/research/srg/) at the University of Cambridge, 09.12.2016
