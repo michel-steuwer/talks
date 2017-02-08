@@ -4,7 +4,7 @@
 
 - Talk at the [International Symposium on Code Generationand Optimization](http://cgo.org/cgo2017/) in Austin, Texas, 06.02.2017
 
- [*LIFT: A Functional Data-Parallel IR for  High-Performance GPU Code Generation*](https://github.com/michel-steuwer/talks/blob/master/2017/CGO-2017.pdf)
+   [*LIFT: A Functional Data-Parallel IR for  High-Performance GPU Code Generation*](https://github.com/michel-steuwer/talks/blob/master/2017/CGO-2017.pdf)
 
 - Talk at the [International Workshop on Programming Models and Applications for Multicores and Manycores](http://www.cs.otago.ac.nz/pmam2017/) in Austin, Texas, 05.02.2017
 
