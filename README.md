@@ -20,11 +20,11 @@
 
   [*The Lift Project: Performance Portable GPU Code Generation via Rewrite Rules*](https://github.com/michel-steuwer/talks/blob/master/2016/Cambridge-2016.pdf)
 
-- Invited Talk at the [Center for Advanced Electronics Dresden](https://www.cfaed.tu-dresden.de/), Dresden University of Technologies, Germany, 26.08.2016
+- Invited Talk at the [Center for Advanced Electronics Dresden](https://www.cfaed.tu-dresden.de/) at Dresden University of Technologies, Germany, 26.08.2016
 
   [*Structured Parallel Programming - From High-Level Functional Expressions to High-Performance OpenCL Code*](https://github.com/michel-steuwer/talks/blob/master/2016/TUDresden-2016.pdf)
 
-- Invited Talk (in german) at Schloss Dagstuhl, Germany, 03.05.2016
+- Invited Talk (in german) at the [Colloquium for the GI Dissertation Award](http://www.dagstuhl.de/16183) at Schloss Dagstuhl, Germany, 03.05.2016
 
   [*Verbesserung der Programmierbarkeit und Performance-Portabilität von Manycore-Prozessoren*](https://github.com/michel-steuwer/talks/blob/master/2016/Dagstuhl-2016.pdf)
 
