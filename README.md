@@ -2,6 +2,10 @@
 
 ## 2017
 
+- Talk at the [Scottish Programming Language Seminar](https://agozillon.github.io/spls-uws-17/) at the University of the West of Scotland, UK, 26.06.2017
+
+   [*Towards Composable GPU Programming: Programming GPUs with Eager Actions and Lazy Views*](https://github.com/michel-steuwer/talks/blob/master/2017/SPLS-2017.pdf)
+
 - Talk at the [International Symposium on Code Generationand Optimization](http://cgo.org/cgo2017/) in Austin, USA, 06.02.2017
 
    [*LIFT: A Functional Data-Parallel IR for  High-Performance GPU Code Generation*](https://github.com/michel-steuwer/talks/blob/master/2017/CGO-2017.pdf)
