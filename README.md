@@ -2,6 +2,10 @@
 
 ## 2017
 
+- Invited Talk at the [Parallel and Distributed Systems research group](http://www.uni-muenster.de/PVS/en/index.html) at the University of Münster, Germany, 07.07.2017
+
+   [*The Lift Project:  Performance Portable Parallel Code Generation via Rewrite Rules*](https://github.com/michel-steuwer/talks/blob/master/2017/Muenster-2017.pdf)
+
 - Talk at the [Scottish Programming Language Seminar](https://agozillon.github.io/spls-uws-17/) at the University of the West of Scotland, UK, 26.06.2017
 
    [*Towards Composable GPU Programming: Programming GPUs with Eager Actions and Lazy Views*](https://github.com/michel-steuwer/talks/blob/master/2017/SPLS-2017.pdf)
